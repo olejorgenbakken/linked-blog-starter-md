@@ -1,7 +1,9 @@
 ---
+title: Fast Track to Accessibility for Web Developers, Core Techniques Part 1
 tags:
   - accessibility
   - a11y
+date: 2025-01-10
 ---
 ## The Big Concepts in Web Accessibility
 Universell utforming er lovpålagt, og kan ikke være en ettertanke. Alt som er visuelt forklart må også forklares i klartekst. Å lære seg hvordan tilgjengelighetstreet fungerer vil hjelpe i forståelsen av hva hjelpeverktøyene bruker for å lese innholdet på skjermen.
