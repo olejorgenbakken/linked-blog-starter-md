@@ -18,14 +18,17 @@ Det er ordentlige folk i enden av alle problemene vi løser. Dette gjør deres h
 	- Bruk mobilverktøyene også.
 ## Who is Accessibility For?
 
-| Gruppe                             | Hjelpemidler                                                                                                                                                                                                                                      |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Døve                               | Undertekster for bilder og videoer.                                                                                                                                                                                                               |
-| Mobilitetshemmede                  | Ekstra tid ved navigering. <br>**Tastaturtilgjengelighet**: Selv om mange av hjelpeverktøyene som brukes av folk med nedsatt mobilitet ikke er tastaturbaserte ender de som regel opp med å behandle informasjonen på samme måte som et tastatur. |
-| Svaksynte                          | Fargekontrast og responsiv design                                                                                                                                                                                                                 |
-| Fargeblinde                        | Fargekontrast                                                                                                                                                                                                                                     |
-| Blinde                             | Tilgjengelighetstreet i nettleseren og tastaturtilgjengelighet                                                                                                                                                                                    |
-| Personer med nedsatt kognitiv evne | Intuitive løsninger.<br>Direkte og enkelt språk.<br>Alternative visningsvalg som video og lyd.                                                                                                                                                    |
+| Gruppe                             | Hjelpemidler                                                                                   |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Døve                               | Undertekster for bilder og videoer.                                                            |
+| Mobilitetshemmede                  | Ekstra tid ved navigering. <br>Tastaturtilgjengelighet.                                        |
+| Svaksynte                          | Fargekontrast og responsiv design                                                              |
+| Fargeblinde                        | Fargekontrast                                                                                  |
+| Blinde                             | Tilgjengelighetstreet i nettleseren og tastaturtilgjengelighet                                 |
+| Personer med nedsatt kognitiv evne | Intuitive løsninger.<br>Direkte og enkelt språk.<br>Alternative visningsvalg som video og lyd. |
+
+Selv om mange av hjelpeverktøyene som brukes av folk med nedsatt mobilitet ikke er tastaturbaserte ender de som regel opp med å behandle informasjonen på samme måte som et tastatur.
+
 Det er viktig å huske at folk havne i flere av kategoriene samtidig. For en person som er **døvblind må man for eksempel dekke alle kravene for både døve og for blinde, i tillegg til tilrettelegging av videoer og bilder**.
 
 Alle vil trenge tilgjengelighetsverktøy på et eller annet tidspunkt. For eksempel sitter jeg og skriver dette notatet med nettleseren og Microsoft Word oppe samtidig på en mindre skjerm. Hadde ikke begge disse applikasjonene støttet responsivitet hadde jeg ikke kunnet gjøre jobben min på en god og effektiv måte.
