@@ -1,0 +1,6 @@
+- Dette med hjelpetekstene burde vi finne ut av
+	- Er det noe vi burde si at ikke er lov?
+	- [ReadMore i Aksel](https://aksel.nav.no/komponenter/core/read-more#readmoredemo-form)
+- [Bedre måte å si om et felt er valgfritt, eller påkrevd på](https://www.magentaa11y.com/checklist-web/text-input/)?
+- Standarder for oppsummeringssider i skjemaer
+	- [Readonly prop](https://www.magentaa11y.com/checklist-web/text-input/)?
