@@ -10,7 +10,6 @@ Universell utforming er lovpålagt, og kan ikke være en ettertanke. Alt som er 
 
 Det er ordentlige folk i enden av alle problemene vi løser. Dette gjør deres hverdag enklere, bedre og mer fullkommen.
 ### Huskeregler
-
 - Bruk verktøy som automatiserer prosessen, men husk at verktøyene ikke er nok.
 - Test med skjermlesere.
 	- Jo oftere du bruker den, jo enklere blir det.
