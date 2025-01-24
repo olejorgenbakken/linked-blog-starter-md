@@ -1,6 +1,10 @@
 ---
 title: Blogg
-excerpt: Create your own template or use someone else's. Changing the template is a matter of updating one line
+excerpt: Hei bloggen
 ---
-## Deque University kursene jeg har tatt
-1. [[Fast Track to Accessibility for Web Developers, Advanced Techniques Part 1]]
+# Notater
+## Deque University kurs
+1. [Fast Track to Accessibility for Web Developers, Advanced Techniques Part 1](lynkurs-del-1-intro.md)
+2. [Fast Track to Accessibility for Web Developers, Advanced Techniques Part 1](lynkurs-del-2-aria.md)
+# Bøker
+1. [Don't make me think](dont-make-me-think.md) av Steve Krug
