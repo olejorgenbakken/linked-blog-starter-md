@@ -19,3 +19,5 @@ Prøv å halver den totale mengden tekst på siden. I de fleste tilfellene funge
 
 ## Instruksjoner må dø
 Ingen kommer til å lese hvordan du ønsker at de bruker det du lager. Lag det riktig istedenfor, og gi brukeren hjelp der det trengs.
+
+# Tanker
